@@ -3,6 +3,8 @@ gulp-jasmine-phantom
 
 A gulp plugin that runs Jasmine tests with either PhantomJS or minijasminenode2.
 
+> Please note this is a copy of https://github.com/dflynn15/gulp-jasmine-phantom
+
 Dependencies
 ------------
 
